@@ -1,0 +1,30 @@
+[25-Jan-2018 15:10:24 UTC] PHP Warning:  require_once(include/connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/include/delete.php on line 2
+[25-Jan-2018 15:10:24 UTC] PHP Stack trace:
+[25-Jan-2018 15:10:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/include/delete.php:0
+[25-Jan-2018 15:10:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'include/connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/include/delete.php on line 2
+[25-Jan-2018 15:10:24 UTC] PHP Stack trace:
+[25-Jan-2018 15:10:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/include/delete.php:0
+[25-Jan-2018 15:10:52 UTC] PHP Warning:  require_once(include/connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/include/delete.php on line 2
+[25-Jan-2018 15:10:52 UTC] PHP Stack trace:
+[25-Jan-2018 15:10:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/include/delete.php:0
+[25-Jan-2018 15:10:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'include/connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/include/delete.php on line 2
+[25-Jan-2018 15:10:52 UTC] PHP Stack trace:
+[25-Jan-2018 15:10:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/include/delete.php:0
+[25-Jan-2018 15:11:02 UTC] PHP Warning:  require_once(include/connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/include/delete.php on line 2
+[25-Jan-2018 15:11:02 UTC] PHP Stack trace:
+[25-Jan-2018 15:11:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/include/delete.php:0
+[25-Jan-2018 15:11:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'include/connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/include/delete.php on line 2
+[25-Jan-2018 15:11:02 UTC] PHP Stack trace:
+[25-Jan-2018 15:11:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/include/delete.php:0
+[26-Jan-2018 08:01:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/include/reservationAction.php on line 25
+[26-Jan-2018 08:06:35 UTC] PHP Warning:  include(include/session.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/include/reservationAction.php on line 5
+[26-Jan-2018 08:06:35 UTC] PHP Stack trace:
+[26-Jan-2018 08:06:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/include/reservationAction.php:0
+[26-Jan-2018 08:06:35 UTC] PHP Warning:  include(): Failed opening 'include/session.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/include/reservationAction.php on line 5
+[26-Jan-2018 08:06:35 UTC] PHP Stack trace:
+[26-Jan-2018 08:06:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/include/reservationAction.php:0
+[26-Jan-2018 08:08:43 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/include/reservationAction.php on line 9
+[26-Jan-2018 08:10:50 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/ubuntu/workspace/include/reservationAction.php on line 9
+[26-Jan-2018 08:13:56 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/ubuntu/workspace/include/reservationAction.php on line 9
+[26-Jan-2018 08:15:53 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/ubuntu/workspace/include/reservationAction.php on line 11
+[26-Jan-2018 14:28:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/ubuntu/workspace/include/filtercars.php on line 3
